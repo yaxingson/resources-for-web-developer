@@ -60,5 +60,7 @@
 
 ## Public APIs
 
+- <https://jsonplaceholder.typicode.com/>
+- <https://picsum.photos/>
 
 
