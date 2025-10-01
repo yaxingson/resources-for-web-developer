@@ -1,23 +1,23 @@
-# Free Resources For Developer
-
-## Ebook
+# Resources for Web Developer
 
 
 ## Website
 
-### UI Graphics
+| Category | Logo | Name | Description |
+| -----    | -----  | -----  | -----  |
+| Fonts | <a href="https://www.1001freefonts.com/"><img src="https://www.1001freefonts.com/logo.png" width="30"/></a> | 1001freefonts | |
+|       | <a href="https://www.dafont.com/"><img src="https://www.dafont.com/img/favicon.ico" width="30"/></a> | dafont | |
+|       | <a href="https://www.fontshare.com/"><img src="https://www.fontshare.com/static/favicon.png" width="30"/></a> | fontshare  | |
+|       | <a href="https://glyphter.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | glyphter  | |
+| Colors | <a href="https://www.getcolorlab.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | colorlab  | |
+|       | <a href="https://glyphter.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | glyphter  | |
+|       | <a href="https://glyphter.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | glyphter  | |
+|       | <a href="https://glyphter.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | glyphter  | |
+|       | <a href="https://glyphter.com/"><img src="https://glyphter.com/images/favicon.png" width="30"/></a> | glyphter  | |
 
-### Fonts
 
-- [1001freefonts](https://www.1001freefonts.com/)
-- [dafont](https://www.dafont.com/)
-- [fontshare](https://www.fontshare.com/)
-- [glyphter](https://glyphter.com/)
-- [open-foundry](https://open-foundry.com/)
 
-### Colors
-
-- [colorlab](https://www.getcolorlab.com/)
+- []()
 - [colorgradient](https://colorgradient.dev/)
 - [uicolors](https://uicolors.app/create)
 - [htmlcolorcodes](https://htmlcolorcodes.com/)
