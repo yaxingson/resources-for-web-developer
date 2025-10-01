@@ -41,15 +41,12 @@
 
 ### Logos
 
-### Favicons
+| Logo | Website | Description |
+| ----- | ----- |  -----    |
+| <img src="https://svglogos.dev/brand/favicon-32x32.png" width="30"> | [SVG LOGOS](https://svglogos.dev/) | SVG logos for developers, designers, bloggers, geeks and more. |
+| <img src="https://www.vectorlogo.zone/favicon.svg" width="30" > | [Gorgeous](https://www.vectorlogo.zone/) | Consistently formatted SVG logos. |
+| <img src="https://www.logo.wine/favicons/favicon-32x32.png" width="30" > | [Logo Wine](https://www.logo.wine/) | ogo.wine is an online collection of the brand logos from around the world, which can be downloaded for free in SVG vector or PNG file format.  |
 
-### Icon Fonts
-
-### Stock Photos
-
-### Stock Videos
-
-### Stock Music & Sound Effects
 
 ### Public APIs
 
