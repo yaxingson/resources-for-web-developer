@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://youke1.picui.cn/s1/2025/10/03/68df9a324daf2.png">
-</p>
+# Resources For Web Developer
 
 ## Websites
 
