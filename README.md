@@ -46,6 +46,13 @@
 | <img src="https://www.vectorlogo.zone/favicon.svg" width="30" > | [Gorgeous](https://www.vectorlogo.zone/) | Consistently formatted SVG logos. |
 | <img src="https://www.logo.wine/favicons/favicon-32x32.png" width="30" > | [Logo Wine](https://www.logo.wine/) | ogo.wine is an online collection of the brand logos from around the world, which can be downloaded for free in SVG vector or PNG file format.  |
 
+### LLM APIs
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://openrouter.ai/favicon.ico" width="30" > | [OpenRouter](https://openrouter.ai/) | A router for LLMs and other AI models. |
+| <img src="https://aihubmix.com/favicon.ico?v=2" width="30" > | [AiHubMix](https://aihubmix.com/) | Access every major LLM through a single, unified interface. Connect to ChatGPT, Claude, Gemini, DeepSeek, Doubao, Qwen and more with unlimited concurrency. Build smarter, faster. |
+
 
 ### Public APIs
 
