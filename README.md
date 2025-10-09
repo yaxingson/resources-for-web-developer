@@ -1,6 +1,4 @@
 
-
-
 ## Websites
 
 ### UI Graphics
@@ -46,6 +44,44 @@
 | <img src="https://svglogos.dev/brand/favicon-32x32.png" width="30"> | [SVG LOGOS](https://svglogos.dev/) | SVG logos for developers, designers, bloggers, geeks and more. |
 | <img src="https://www.vectorlogo.zone/favicon.svg" width="30" > | [Gorgeous](https://www.vectorlogo.zone/) | Consistently formatted SVG logos. |
 | <img src="https://www.logo.wine/favicons/favicon-32x32.png" width="30" > | [Logo Wine](https://www.logo.wine/) | ogo.wine is an online collection of the brand logos from around the world, which can be downloaded for free in SVG vector or PNG file format.  |
+
+
+### Design Inspiration
+
+| Logo | Website | Description |
+| ----- | ----- |  -----    |
+| <img src="https://foxyapps.co/icons/favicon-32x32.png" width="30"> | [foxyapps](https://foxyapps.co/) | Design inspiration from the most beautiful iOS and Android apps from around the world. |
+
+
+### Image Process
+
+| Logo | Website | Description |
+| ----- | ----- |  -----    |
+| <img src="https://tinypng.com/images/favicon.ico" width="30"> | [TinyPNG](https://tinypng.com/) | Free online image optimizer for faster websites! Reduce the file size of your AVIF, WEBP, JPEG and PNG images while preserving the image quality. |
+| <img src="https://squoosh.app/c/favicon-c9cf50ef.ico" width="30" > | [Squoosh](https://squoosh.app/) | Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser. |
+| <img src="https://www.iloveimg.com/img/favicons-img/favicon-16x16.png" width="30" > | [iLoveIMG](https://www.iloveimg.com/) | iLoveIMG is the webapp that lets you modify images in seconds for free. Crop, resize, compress, convert, and more in just a few clicks!  |
+
+
+### Chrome Extensions
+
+### Design Tools
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://openrouter.ai/favicon.ico" width="30" > | [Penpot](https://penpot.app/) | Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app. |
+
+
+
+
+
+### AI Powered Tools 
+
+| Logo | Website | Description |
+| ----- | ----- |  -----    |
+| <img src="https://imggen.ai/assets/favicon/favicon-32x32.png" width="30"> | [ImgGen AI](https://imggen.ai/) | ImgGen AI is a powerful online photo editing tool that allows you to edit and enhance your photos with ease. With our AI-powered photo editor, you can quickly and easily remove backgrounds, add filters, and create stunning images. Try it now! |
+| <img src="https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_logo_transparentbg.webp" width="30" > | [Unblur Image](https://unblurimage.ai/) | Easily unblur images and sharpen photos in one click. Remove blur from photos and achieve stunning clarity online for free with unblurimage.ai. |
+| <img src="https://diagram-generator.com/favicon_io/favicon.png" width="30" > | [AI Diagram Generator](https://diagram-generator.com/) | Free AI Diagram Generator for professionals and students. |
+
 
 ### LLM APIs
 
