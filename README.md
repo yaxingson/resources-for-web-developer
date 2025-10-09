@@ -59,6 +59,16 @@
 | Logo | Website | Description |
 | ----- | ----- |  -----    |
 | <img src="https://picsum.photos/assets/images/favicon/favicon-32x32.png" width="30" > | [Lorem Picsum](https://picsum.photos/) | Lorem Ipsum... but for photos. |
+| <img src="https://httpbin.org/static/favicon.ico" width="30" > | [httpbin](https://httpbin.org/) | A simple HTTP Request & Response Service. |
+| <img src="https://ts2.tc.mm.bing.net/th/id/ODF.t368kfqVb-7i5b478qeUnw?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=12&pid=1.2" width="30" > | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake and reliable API for testing and prototyping. |
+| <img src="https://cataas.com/cat?width=32&height=32" > | [CATAAS](https://cataas.com/) | Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats. |
+| <img src="https://placebear.com/favicon.png" width="30" > | [placebear](https://placebear.com/) | Bear-themed placeholder images for developers. |
+| <img src="https://http.dog/static/icons/dog.svg" width="30" > | [HTTP Dogs](https://http.dog/) | A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes. Support for AVIF, JXL, JPG, WEBP and JSON. |
+| <img src="https://http.cat/favicon.ico" width="30" > | [HTTP Cats](https://http.cat/) | An API for the awesome HTTP Cats! Use it in your website to show funny error messages. |
+| <img src="https://raw.githubusercontent.com/joshghent/placedogs/refs/heads/main/static/favicon.ico" width="30" > | [Place Dog](https://place.dog/) | A simple service to get cute dogs as placeholders for your websites and designs. Just add a width and height to the end of the url. |
+| <img src="https://open-meteo.com/favicon.ico" width="30" > | [Open Meteo](https://open-meteo.com/) | Open-Source ☀️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ Weather API with free access for non-commercial use. No API Key required ✅. Accurate weather forecasts for any location. Open-Meteo provides high-resolution open data ranging from 1 to 11 kilometres from national weather services. With a user-friendly JSON API, integrating weather data has never been easier. Experience the precision and convenience of Open-Meteo's Forecast API for reliable and comprehensive weather information worldwide. |
+
+
 
 
 
