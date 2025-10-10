@@ -83,6 +83,28 @@
 | <img src="https://diagram-generator.com/favicon_io/favicon.png" width="30" > | [AI Diagram Generator](https://diagram-generator.com/) | Free AI Diagram Generator for professionals and students. |
 
 
+### Online Code Editor
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://jsfiddle.net/img/favicon.png" width="30" > | [JSFiddle](https://jsfiddle.net/) | JSFiddle - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle. |
+| <img src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" width="30" > | [CodePen](https://codepen.io/) | Build, share, and learn JavaScript, CSS, and HTML with our online code editor. |
+
+### Cloud Deploy
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://www.netlify.com/favicon/icon.svg" width="30" > | [netlify](https://www.netlify.com/) | Build with AI or code, deploy instantly. One platform with everything you need to make real apps live. |
+| <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico" width="30" > | [vercel](https://vercel.com/) | Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web. |
+
+### AI Builder
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://v0.app/assets/icon-light-32x32.png" width="30" > | [v0](https://v0.app) | Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web. |
+| <img src="https://bolt.new/static/favicon.svg" width="30" > | [bolt.new](https://bolt.new) | Build and scale high-performing websites &amp; apps using your words. Join millions and start building today. |
+
+
 ### LLM APIs
 
 | Logo | Website | Description |
