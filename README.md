@@ -104,6 +104,13 @@
 | <img src="https://v0.app/assets/icon-light-32x32.png" width="30" > | [v0](https://v0.app) | Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web. |
 | <img src="https://bolt.new/static/favicon.svg" width="30" > | [bolt.new](https://bolt.new) | Build and scale high-performing websites &amp; apps using your words. Join millions and start building today. |
 
+### MCP Server Hub
+
+| Logo | Website | Description |
+| -----  | -----  | -----  |
+| <img src="https://smithery.ai/icon-12jlf3.svg?icon.fbc45e7c.svg" width="30" > | [Smithery](https://smithery.ai/) | Extend your agent's capabilities with Model Context Protocol servers. |
+| <img src="https://mcp.so/favicon.ico" width="30" > | [MCP Servers](https://mcp.so/) | The largest collection of MCP Servers, including Awesome MCP Servers and Claude MCP integration. Search and discover MCP servers to enhance your AI capabilities. |
+
 
 ### LLM APIs
 
