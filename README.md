@@ -118,7 +118,7 @@
 | -----  | -----  | -----  |
 | <img src="https://openrouter.ai/favicon.ico" width="30" > | [OpenRouter](https://openrouter.ai/) | A router for LLMs and other AI models. |
 | <img src="https://aihubmix.com/favicon.ico?v=2" width="30" > | [AiHubMix](https://aihubmix.com/) | Access every major LLM through a single, unified interface. Connect to ChatGPT, Claude, Gemini, DeepSeek, Doubao, Qwen and more with unlimited concurrency. Build smarter, faster. |
-
+| <img src="https://gptsapi.net/favicon.ico" width="30" >| [gptsapi](https://gptsapi.net) | | 
 
 ### Public APIs 
 
