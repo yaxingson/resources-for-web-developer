@@ -7,7 +7,6 @@
 | ----- | ----- |  -----    |
 | <img src="https://www.sinwaver.com/favicon.svg" width="30" > | [Sine wave SVG generator](https://www.sinwaver.com/) | Generate perfect sine waves and export them as SVG for your designs and backgrounds. |
 
-
 ### Fonts
 
 | Logo | Website | Description |
