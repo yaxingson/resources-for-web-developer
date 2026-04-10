@@ -8,9 +8,35 @@
 
 ### Website Deployment
 
+- [Vercel]()
+- [Netlify]()
+- [Cloudflare Pages]()
+- [EdgeOne Pages]()
+- [Railway]()
+- [GitHub Pages]()
+
 ### Online IDEs
 
+- [CodePen]()
+- [JSFiddle]()
+- [CodeSandbox]()
+- [StackBlitz]()
+- [GitHub Codespaces]()
+- [Gitpod]()
+- [Replit]()
+
 ### Chrome Extensions
+
+- [React DevTools]()
+- [Vue.js Devtools]()
+- [Redux DevTools]()
+- [JSON Formatter]()
+- [Postman Interceptor]()
+- [Talent API Tester]()
+- [CSSViewer]()
+- [ColorPick Eyedropper]()
+- [Lighthouse]()
+
 
 ### UI Design
 
@@ -23,6 +49,14 @@
 - [fffuel](https://www.fffuel.co/): A fun collection of free SVG generators for gradients, patterns, shapes, textures, and cool backgrounds. Plus, some handy color tools for web designers.
 
 #### Icons
+
+- [iconfont]()
+- [IconPark]()
+- [Remix Icon]()
+- [Feather Icons]()
+- [Lucide]()
+- [Heroicons]()
+- [Font Awesome]()
 
 #### Fonts
 
@@ -37,6 +71,31 @@
 ### Public APIs
 
 - [abstractapi](https://www.abstractapi.com/api/user-avatar-api): A free Avatar API that creates simple yet highly flexible user avatars using a user's name or initials. Add a splash of color and nice imagery to your interfaces.
+- [OpenWeatherMap]()
+- [WeatherAPI]()
+- [Weatherstack]()
+- [IPstack]()
+- [OpenStreetMap Nominatim]()
+- [GeoNames]()
+- [Marketstack]()
+- [Fixer]()
+- [NewsAPI]()
+- [GitHub API]()
+- [Pixabay]()
+- [Remove.bg]()
+- [Cloudinary]()
+- [JSONPlaceholder]()
+- [Random User Generator]()
+- [RandomDog]()
+- [RandomFox]()
+- [RandomDuck]()
+- [PlaceKitten]()
+- [Cataas]()
+- [Dog CEO]()
+- [Animal Facts]()
+
+
+
 
 ## Contributing
 
