@@ -2,7 +2,14 @@
 
 [English](./README.md) | [Chinese](./README.zh-CN.md)
 
-## Resource List
+## Index
+
+- [Skills Checklist](#skills-checklist)
+- [Website Deployment](#website-deployment)
+- [Online IDEs](#online-ides)
+- [Chrome Extensions](#chrome-extensions)
+- [UI Design](#ui-design)
+- [Public APIs](#public-apis)
 
 ### Skills Checklist
 
@@ -15,9 +22,6 @@
 
 - [CSS Nippets](https://cssnippets.shefali.dev/): Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more
 - [React Bits](https://reactbits.dev/): An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
-
-
-
 
 
 #### Accessibility
@@ -88,6 +92,14 @@
 - [practice.typekit](https://practice.typekit.com/): Whether you're new to a field or an expert, good decisions take practice – and great decisions are built on a solid foundation. Typekit Practice is a collection of resources and a place to try new things, hone your skills, and stay sharp.
 - [justfreefonts](https://justfreefonts.com/): A collection of freeware, open-source, and public domain fonts – all free for personal and commercial use.
 - [fontsource](https://fontsource.org/): Download and self-host 1500+ open-source fonts neatly bundled as NPM packages. Access a comprehensive library of web typefaces for free.
+
+#### Image
+
+- [Compressor](https://compressor.io/): Optimize and compress JPEG, PNG, SVG, GIF and WEBP images online. Compress, resize and rename your photos for free.
+- [HighCompress](https://www.highcompress.com/): Compress images online for free with HighCompress. Reduce image file size up to 95% without losing quality. Perfect for WordPress, e-commerce, and web developers. Try our free image compression tool now!
+- [Pexels](https://www.pexels.com/): Free stock photos &amp; videos you can use everywhere. Browse millions of high-quality royalty free stock images &amp; copyright free pictures. No attribution required.
+
+
 
 #### Colors
 
