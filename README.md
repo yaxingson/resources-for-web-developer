@@ -22,7 +22,7 @@
 - [HTML Reference](https://htmlreference.io/): A free guide to all HTML elements and attributes.
 - [HTML Validator](https://validator.w3.org/): Check the syntax and accessibility of HTML documents.
 - [WebHint](https://webhint.io/): webhint, a linting tool for the web focused on best practices and flexibility for the end user.
-
+- [Optimizing HTML](https://perfectionkills.com/optimizing-html/)
 
 #### CSS
 
@@ -35,29 +35,42 @@
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [Animista](https://animista.net/): Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 - [CSS Tricks](https://css-tricks.com/): A Website About Making Websites.
+- [Flexbox Grid](http://flexboxgrid.com/)
+- [Yelp Style Guide](https://www.yelp.com/styleguide)
+- [CSSNano](https://cssnano.github.io/cssnano/)
+- [CSS Stats](https://cssstats.com/)
+
 
 #### JavaScript
 
 - [You Might Not Need jQuery](https://youmightnotneedjquery.com/)
 - [PlainJS](https://plainjs.com/)
 - [ESLint](https://eslint.org/)
+- [Best of JS](https://bestofjs.org/)
 
 
 #### Snippets & Components
 
-- [CSS Nippets](https://cssnippets.shefali.dev/): Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more
+- [CSS Snippets](https://cssnippets.shefali.dev/): Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more
 - [React Bits](https://reactbits.dev/): An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
-
+- [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
 #### Performance
 
 - [UnCSS Online](https://uncss-online.com/)
 - [ImageOptim](https://imageoptim.com/api)
-- [TinyPNG](https://tinypng.com/)
 - [Pingdom](https://tools.pingdom.com/)
 - [WebPageTest](https://www.webpagetest.org/)
 - [HTTP Cookie](https://datatracker.ietf.org/doc/html/rfc6265)
 - [GTmetrix](https://gtmetrix.com/)
+- [Treo](https://treo.sh/?ref=perfchecklist)
+- [Dareboost](https://www.dareboost.com/en)
+- [Sitespeed.io](https://www.sitespeed.io/)
+- [Calibre](https://calibreapp.com/)
+- [Gravity](https://gravity.ci/)
+- [Yellow Lab Tools](https://yellowlab.tools/)
+- [Project Wallace](https://www.projectwallace.com/)
+- [Web Speed Test](https://webspeedtest.cloudinary.com/)
 
 
 #### Compatibility
@@ -120,6 +133,7 @@
 - [ColorPick Eyedropper]()
 - [Lighthouse]()
 - [Requestly](https://requestly.com/)
+- [Checkbot](https://www.checkbot.io/)
 
 
 ### UI Design
@@ -141,6 +155,7 @@
 - [Lucide]()
 - [Heroicons]()
 - [Font Awesome]()
+- [IcoMoon](https://icomoon.io/app/#/select)
 
 #### Fonts
 
@@ -149,13 +164,17 @@
 - [practice.typekit](https://practice.typekit.com/): Whether you're new to a field or an expert, good decisions take practice – and great decisions are built on a solid foundation. Typekit Practice is a collection of resources and a place to try new things, hone your skills, and stay sharp.
 - [justfreefonts](https://justfreefonts.com/): A collection of freeware, open-source, and public domain fonts – all free for personal and commercial use.
 - [fontsource](https://fontsource.org/): Download and self-host 1500+ open-source fonts neatly bundled as NPM packages. Access a comprehensive library of web typefaces for free.
+- [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 
 #### Image
 
 - [Compressor](https://compressor.io/): Optimize and compress JPEG, PNG, SVG, GIF and WEBP images online. Compress, resize and rename your photos for free.
 - [HighCompress](https://www.highcompress.com/): Compress images online for free with HighCompress. Reduce image file size up to 95% without losing quality. Perfect for WordPress, e-commerce, and web developers. Try our free image compression tool now!
 - [Pexels](https://www.pexels.com/): Free stock photos &amp; videos you can use everywhere. Browse millions of high-quality royalty free stock images &amp; copyright free pictures. No attribution required.
-
+- [RealFaviconGenerator](https://realfavicongenerator.net/): Generate favicons for your website automatically.
+- [TinyPNG](https://tinypng.com/)
+- [TinyJPG](https://tinyjpg.com/)
+- [Kraken](https://kraken.io/web-interface)
 
 
 #### Colors
@@ -165,6 +184,8 @@
 - [Color Review](https://color.review/): A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.
 - [ColorMind](http://colormind.io/): Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
 - [ColorsInspo](https://colorsinspo.com/): Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients and thousands of trendy hand-picked color palettes.
+- [Contrast Checker](https://contrastchecker.com/)
+- [ColorSafe](http://colorsafe.co/)
 
 ### Public APIs
 
