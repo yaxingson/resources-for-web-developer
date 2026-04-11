@@ -4,7 +4,29 @@
 
 ## Resource List
 
-### Tutorials
+### Skills Checklist
+
+
+#### CSS
+
+- [Animista](https://animista.net/): Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+
+#### Snippets & Components
+
+- [CSS Nippets](https://cssnippets.shefali.dev/): Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more
+- [React Bits](https://reactbits.dev/): An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+
+
+
+
+
+#### Accessibility
+
+- [A11y Coffee](https://a11y.coffee/)：The introduction on web accessibility that I want to give every single web developer.
+- [Ally Style Guide](https://a11y-style-guide.com/style-guide/): Style guide and pattern library promoting accessible components and WCAG compliance criteria.
+- [HTML5 Accessibility](https://www.html5accessibility.com/): Get the current accessibility support status of HTML5 features across major browsers.
+- [A11y Project](https://www.a11yproject.com/): The A11Y Project is a community-driven effort to make digital accessibility easier.
+- [Wave WebAIM](https://wave.webaim.org/): WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guide.
 
 ### Website Deployment
 
@@ -36,6 +58,7 @@
 - [CSSViewer]()
 - [ColorPick Eyedropper]()
 - [Lighthouse]()
+- [Requestly](https://requestly.com/)
 
 
 ### UI Design
@@ -68,6 +91,12 @@
 
 #### Colors
 
+- [Accessible Color Generator](https://www.learnui.design/tools/accessible-color-generator.html): Create accessible color pairings using your brand colors.
+- [Color Hex](https://www.color-hex.com/): Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
+- [Color Review](https://color.review/): A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.
+- [ColorMind](http://colormind.io/): Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
+- [ColorsInspo](https://colorsinspo.com/): Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients and thousands of trendy hand-picked color palettes.
+
 ### Public APIs
 
 - [abstractapi](https://www.abstractapi.com/api/user-avatar-api): A free Avatar API that creates simple yet highly flexible user avatars using a user's name or initials. Add a splash of color and nice imagery to your interfaces.
@@ -93,11 +122,23 @@
 - [Cataas]()
 - [Dog CEO]()
 - [Animal Facts]()
-
-
-
+- [Mockae](https://mockae.com/): Fake REST APIs powered by Lua.
+- [Apyhub](https://apyhub.com/): List your API on ApyHub Marketplace to reach 50,000+ developers. Free to list, monetize your API, and grow adoption in a trusted marketplace.
+- [SerpApi](https://serpapi.com/):SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you.
+- [ApyVerve](https://apiverve.com/): One API key. Consistent schemas. Predictable pricing. 300+ production-ready APIs with enterprise-grade reliability backed by 99.9% uptime SLA.
+- [RapidAPI](https://rapidapi.com/): Explore your APIs.
 
 ## Contributing
+
+## Links
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [mezod/awesome-indie](https://github.com/mezod/awesome-indie)
+- [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)
 
 ## License
 
