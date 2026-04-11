@@ -13,15 +13,56 @@
 
 ### Skills Checklist
 
+#### HTML
+
+- [HTML Specification](https://html.spec.whatwg.org/multipage/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Browser Configuration Schema Reference](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/dn320426(v=vs.85))
+- [Meta Tags](https://metatags.io/): With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, X and more.
+- [HTML Reference](https://htmlreference.io/): A free guide to all HTML elements and attributes.
+- [HTML Validator](https://validator.w3.org/): Check the syntax and accessibility of HTML documents.
+- [WebHint](https://webhint.io/): webhint, a linting tool for the web focused on best practices and flexibility for the end user.
+
 
 #### CSS
 
+- [CSS Guidelines](https://cssguidelin.es/)
+- [CSS Reference](https://cssreference.io/)
+- [Code Guide](https://codeguide.co/)
+- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
+- [Autoprefixer](https://autoprefixer.github.io/)
+- [Stylelint](https://stylelint.io/)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [Animista](https://animista.net/): Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+- [CSS Tricks](https://css-tricks.com/): A Website About Making Websites.
+
+#### JavaScript
+
+- [You Might Not Need jQuery](https://youmightnotneedjquery.com/)
+- [PlainJS](https://plainjs.com/)
+- [ESLint](https://eslint.org/)
+
 
 #### Snippets & Components
 
 - [CSS Nippets](https://cssnippets.shefali.dev/): Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more
 - [React Bits](https://reactbits.dev/): An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+
+
+#### Performance
+
+- [UnCSS Online](https://uncss-online.com/)
+- [ImageOptim](https://imageoptim.com/api)
+- [TinyPNG](https://tinypng.com/)
+- [Pingdom](https://tools.pingdom.com/)
+- [WebPageTest](https://www.webpagetest.org/)
+- [HTTP Cookie](https://datatracker.ietf.org/doc/html/rfc6265)
+- [GTmetrix](https://gtmetrix.com/)
+
+
+#### Compatibility
+
+- [Can I Use](https://caniuse.com/): &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
 #### Accessibility
@@ -31,6 +72,22 @@
 - [HTML5 Accessibility](https://www.html5accessibility.com/): Get the current accessibility support status of HTML5 features across major browsers.
 - [A11y Project](https://www.a11yproject.com/): The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [Wave WebAIM](https://wave.webaim.org/): WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guide.
+- [Contrast Ratio](https://www.siegemedia.com/contrast-ratio)
+- [Mobile Input Types](http://mobileinputtypes.com/)
+
+#### SEO
+
+- [HTML Sitemap Generator](https://websiteseochecker.com/html-sitemap-generator/)
+- [JSON LD](https://json-ld.org/)
+
+
+#### Security
+
+- [Security Headers](https://securityheaders.com/)
+- [Mozilla Observatory](https://developer.mozilla.org/en-US/observatory)
+- [SSL Labs](https://www.ssllabs.com/ssltest/index.html)
+- [Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+
 
 ### Website Deployment
 
